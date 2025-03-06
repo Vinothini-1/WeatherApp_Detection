@@ -1,4 +1,5 @@
 ![Screenshot 2025-03-04 at 9 29 59 AM](https://github.com/user-attachments/assets/6da796b0-5015-4542-af64-0af70f107758)
+
 🌤️ Weather App
 
 A modern Weather App built with **React, Redux, PWA, and Custom Hooks** to provide real-time weather updates with a seamless user experience.
@@ -6,7 +7,9 @@ A modern Weather App built with **React, Redux, PWA, and Custom Hooks** to provi
  🚀 Features
 
  🌍 **Real-time Weather Data** – Fetch current weather for any city.
+
  🎨 **Light/Dark Mode** – Theme toggling using Context API.
+
 💾 **Redux State Management** – Stores and caches last searched city.
 📱 **Progressive Web App (PWA)** – Installable on mobile & desktop and u can use it offline too.
 🔄 **Custom Hooks** – `useFetchWeather` for efficient API handling.
